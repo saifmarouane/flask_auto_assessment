@@ -1,4 +1,14 @@
-# Python template app for conversational bot
+# Automated Candidate Evaluation System
+
+## Description
+
+This project aims to design and develop an automated candidate evaluation system using prompt engineering techniques and chatbot training. The system leverages prompting patterns such as personas and few-shot examples to provide accurate and tailored evaluations based on recruiters' needs '12 fields evaluated'.
+
+## Features
+
+- **Automated Evaluation**: Analyzes candidate responses to provide precise and objective assessments.
+- **Prompt Engineering**: Utilizes personas and few-shot examples to enhance the quality of assistant interactions .
+- **Custom Features**: Development of specific functionalities tailored to the system's requirements.
  
 This uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. It is inspired from [quickstart tutorial](https://beta.openai.com/docs/quickstart).
 
